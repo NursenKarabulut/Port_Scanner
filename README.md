@@ -7,7 +7,7 @@ There are several types of port scanners, including simple scanners that send TC
 Port scanners are often used by network administrators and security professionals to identify potential vulnerabilities in a network or to ensure that network devices are configured correctly. However, port scanning can also be used by malicious actors to identify open ports and exploit vulnerabilities in a network. It is important to use port scanning tools ethically and responsibly and to take appropriate security measures to protect against unauthorized access and data breaches.
 
 
-🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 Bağlantı noktası tarayıcı, bir bilgisayarda veya ağda açık bağlantı noktaları olup olmadığını taramak için kullanılan bir araçtır. Bağlantı noktaları, bilgisayarlar tarafından veri göndermek ve almak için kullanılan iletişim uç noktalarıdır. Bağlantı noktası tarayıcıları, bir ağ veya bilgisayardaki hangi bağlantı noktalarının açık ve iletişim için uygun olduğunu belirlemek için kullanılabilir.
 
